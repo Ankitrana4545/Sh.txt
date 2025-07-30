@@ -1,0 +1,2 @@
+# Install required library
+pip install python-telegram-bot --upgrade
